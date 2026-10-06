@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 nav {
@@ -108,9 +108,9 @@ button {
   cursor: pointer;
 }
 
-button:active  {
+button:active {
   transform: translateY(1px);
-} 
+}
 
 .btn {
   background-color: #7342d6;
@@ -124,5 +124,3 @@ button:active  {
 .header__img--wrapper {
   padding: 20px;
 }
-
-

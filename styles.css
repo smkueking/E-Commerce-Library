@@ -175,7 +175,7 @@ HIGHLIGHTS
   z-index: 1;
   background-size: cover;
   background-repeat: no-repeat;
-  transform: translateY(500%);
+  transform: translateY(100%) rotate(180deg);
 }
 
 .highlight__wrapper {
@@ -213,4 +213,14 @@ HIGHLIGHTS
   text-align: center;
   font-size: 20px;
   margin-bottom: 16px;
+}
+
+/*
+
+FEATURES
+
+*/
+
+#features {
+  background-color: rgba(115, 66, 214, 0.1);
 }

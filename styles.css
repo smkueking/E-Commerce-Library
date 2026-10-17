@@ -274,3 +274,24 @@ FEATURES
   padding-right: 6px;
   color: #bfbfbf;
 }
+
+/*
+
+EXPLORE
+
+*/
+
+#explore {
+  background-color: rgba(115, 66, 214, 0.1);
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn__explore {
+  padding: 12px 24px;
+  font-size: 20px;
+}
+
